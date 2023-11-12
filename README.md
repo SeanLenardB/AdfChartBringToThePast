@@ -11,3 +11,6 @@ How to use:
 Download and open the console app. Drag & Drop the .adofai file in, and hit enter, then a file with name "..._converted.adofai" can be found. Use the converted chart and Adofai will happily accept it.
 
 Remember that although this solution works 99% of the time, it's still possible for some newer charts to use some events that are not valid in older versions, such as Icyxis True Ending which use object decorations. For those you might use a text editor to remove them in order to open them properly.
+
+# If the application crashes (the console doesn't pop up when it's opened), install the latest dotnet 7.0 runtime.
+This program is written in C# using dotnet 7.0.
