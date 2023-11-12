@@ -1,5 +1,6 @@
 # AdfChartBringToThePast
-Very self-explanatory chart converter
+Very self-explanatory chart converter.
+
 If you open a chart and see an error/exception, which contains something like "value cannot be null", you might need this.
 
 How this thing works:
